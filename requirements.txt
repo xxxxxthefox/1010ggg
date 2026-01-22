@@ -1,0 +1,6 @@
+flask
+flask-jwt-extended
+requests
+bcrypt
+bleach
+gunicorn
